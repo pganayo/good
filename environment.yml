@@ -1,0 +1,19 @@
+name: botty
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - pyinstaller
+    - opencv-python
+    - transitions
+    - mss
+    - numpy
+    - mouse
+    - keyboard
+    - beautifultable
+    - pytweening
+    - requests
+    - pytest
+    - pytest-env
+    - pytest-pythonpath
+    - graphviz
